@@ -34,6 +34,7 @@ AtliQ Hardware, a leading global manufacturer, embarked on a journey to harness 
 🔹 Data validation techniques
 🔹 Power Bi services
 🔹 Publishing reports to Power Bi services
+
  
 # 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐥𝐨𝐠𝐲
 ✅ Gross price
@@ -47,10 +48,10 @@ AtliQ Hardware, a leading global manufacturer, embarked on a journey to harness 
 ✅ YTD - Year to Date
 ✅ YTG - Year to Go
 
-# 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐮𝐬𝐞𝐝
+# Functions Used
 CALCULATE, ALLNOBLANKROW, RELATEDTABLE, SAMEPERIODLASTYEAR, SWITCH, HASONEVALUE, ISCROSSFILTERED, IF, DIVIDE, etc
 
-# 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧
+# Visulaization
 Cards & KPIs, Table & Matrix, filtering, Bookmark, Button, Tooltip, Drill Through, tools like Conditional formatting and Top N slicers, and report navigation helped to add interactivity. Charts used - Donut, Scatter, Area, Ribbon, Waterfall, Line and clustered Column.
 
 # Other Links
